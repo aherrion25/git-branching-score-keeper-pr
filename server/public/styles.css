@@ -24,3 +24,14 @@ header {
 .team2 {
   background-color: plum;
 }
+
+footer {
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: plum;
+  color: tomato;
+  text-shadow: 2px 2px 10px black;
+}
